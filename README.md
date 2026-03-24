@@ -6,23 +6,19 @@ Welcome to my GitHub profile! I'm Emmanuel Ocampo Cardona, a passionate learner 
 
 🎓 Studying Mechanical Engineering, but exploring the world of coding and tech
 
-💼 Currently working with Sabre in customer service
-
-🧑‍💻 Learning Python and looking for beginner-friendly projects
+💼 Currently working with Upshop in Helpdesk Engineer, using SQL, PowerBI, Python and working with APIs
 
 🌍 Dual citizen of Spain & Colombia 🇪🇸🇨🇴
 
 🔧 Tech & Tools
 
-💻 Languages: Python (beginner level)
+💻 Languages: Python, SQL, PowerBI, Tableu
 
-🛠️ Platforms: Codedex, GitHub, VSC
+🛠️ Platforms: GitHub, VSC
 
-📚 Currently learning: Basic CS concepts & problem-solving
+📚 Currently learning: C#
 
 🌱 Goals
-
-Build small projects to improve my coding skills
 
 Gain experience in Data Analysis & automation
 
@@ -30,7 +26,7 @@ Explore opportunities in tech & software development
 
 📫 Connect With Me
 
-✉️ Email: emocampoc@unal.edu.co
+✉️ Email: eocampoc10@gmail.com
 
 💼 LinkedIn: linkedin.com/in/emmanuelocampocardona/
 
