@@ -1,36 +1,27 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-Welcome to my GitHub profile! I'm Emmanuel Ocampo Cardona, a passionate learner and aspiring developer. Here's a bit about me:
+I'm Emmanuel Ocampo Cardona, a Lead, Product Support Engineer at DealMaker with a background in Mechanical Engineering and an interest in data analysis, automation, and software development.
 
-🚀 About Me
+My work involves SQL, Python, Power BI, Ruby on Rails, and APIs. I enjoy using those tools to investigate problems, understand data, and build practical solutions.
 
-🎓 Studying Mechanical Engineering, but exploring the world of coding and tech
+## What I'm building
 
-💼 Currently working with DealMaker as a Lead, Product Support Engineer, using SQL, PowerBI, Python, Ruby on Rails and working with APIs
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Football Data Pipeline](https://github.com/eocvjr/data-pipeline) | Extracts and validates football match data, loads it into SQL, and exports league standings. Includes automated tests and a GitHub Actions workflow. | Python, SQL, SQLite, PostgreSQL, GitHub Actions |
+| [Atlético Nacional Stats App](https://github.com/eocvjr/atl-nacional-stats-app) | A football dashboard for exploring match results, lineups, player statistics, and upcoming fixtures. | Python, Flask, SQLite, JavaScript, HTML, CSS |
 
-🌍 Dual citizen of Spain & Colombia 🇪🇸🇨🇴
+## Tools & interests
 
-🔧 Tech & Tools
+- **Data & automation:** Python, SQL, Power BI, Tableau
+- **Development:** Ruby on Rails, APIs, GitHub, Visual Studio Code
+- **Currently learning:** JavaScript
+- **Focus:** building experience in data analysis, automation, and software development
 
-💻 Languages: Python, SQL, PowerBI, Tableu, Ruby on Rails
+## A little about me
 
-🛠️ Platforms: GitHub, VSC
+I'm studying Mechanical Engineering while exploring coding and technology. I'm also a dual citizen of Colombia and Spain 🇨🇴 🇪🇸, and football is one of the interests behind my personal projects.
 
-📚 Currently learning: JavaScript
+## Get in touch
 
-🌱 Goals
-
-Gain experience in Data Analysis & automation
-
-Explore opportunities in tech & software development
-
-📫 Connect With Me
-
-✉️ Email: eocampoc10@gmail.com
-
-💼 LinkedIn: linkedin.com/in/emmanuelocampocardona/
-
-🏗️ Portfolio in my repositories
-
-Thanks for stopping by! 🚀 Feel free to check out my repositories and leave feedback!
-
+[LinkedIn](https://www.linkedin.com/in/emmanuelocampocardona/)
