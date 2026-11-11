@@ -6,17 +6,17 @@ Welcome to my GitHub profile! I'm Emmanuel Ocampo Cardona, a passionate learner 
 
 🎓 Studying Mechanical Engineering, but exploring the world of coding and tech
 
-💼 Currently working with Upshop in Helpdesk Engineer, using SQL, PowerBI, Python and working with APIs
+💼 Currently working with DealMaker as a Lead, Product Support Engineer, using SQL, PowerBI, Python, Ruby on Rails and working with APIs
 
 🌍 Dual citizen of Spain & Colombia 🇪🇸🇨🇴
 
 🔧 Tech & Tools
 
-💻 Languages: Python, SQL, PowerBI, Tableu
+💻 Languages: Python, SQL, PowerBI, Tableu, Ruby on Rails
 
 🛠️ Platforms: GitHub, VSC
 
-📚 Currently learning: C#
+📚 Currently learning: JavaScript
 
 🌱 Goals
 
@@ -30,7 +30,7 @@ Explore opportunities in tech & software development
 
 💼 LinkedIn: linkedin.com/in/emmanuelocampocardona/
 
-🏗️ Portfolio (coming soon!)
+🏗️ Portfolio in my repositories
 
 Thanks for stopping by! 🚀 Feel free to check out my repositories and leave feedback!
 
